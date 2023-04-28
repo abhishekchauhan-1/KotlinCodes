@@ -6,5 +6,5 @@ fun main(){
     println(i.toString());
     println(i.toByte())
 
-    //This is the way to convert the types..
+    //This is the way to convert the types...
 }
